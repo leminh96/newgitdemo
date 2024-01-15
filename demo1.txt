@@ -1,0 +1,9 @@
+-git là tập hợp các quy tắc để quản lý mã nguồn
+-khái niệm
+	repository: (ngắn gọn là repo) giống như 1 folder để chứa, tuy nhiên phải được tạo bởi git
+			+local repo: kho chứa trên máy
+			+remote repo: kho chứa ngoài internet hoặc trên server
+	branch: (nhánh) 
+	commit: ()
+-download: https://git-scm.com/download/win
+-kiểm tra version git trong visual code: terminal: git--version
